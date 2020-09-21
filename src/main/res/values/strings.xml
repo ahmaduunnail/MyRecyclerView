@@ -2,6 +2,9 @@
     <string name="app_name">Pahlawan Indonesia</string>
     <string name="name">Nama</string>
     <string name="born">Deskripsi</string>
-    <string name="list">List</string>
-    <string name="grid">Grid</string>
+    <string name="list">List View</string>
+    <string name="grid">Grid View</string>
+    <string name="card">Card View</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
 </resources>

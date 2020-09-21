@@ -9,4 +9,8 @@
         android:id="@+id/action_grid"
         android:title="@string/grid"
         app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_card"
+        android:title="@string/card"
+        app:showAsAction="never"/>
 </menu>
