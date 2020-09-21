@@ -4,7 +4,7 @@ Aplikasi bisa dicoba [disini](https://github.com/ahmaduunnail/MyRecyclerView/raw
 
 Built with: Kotlin
 
-![1](https://github.com/ahmaduunnail/MyRecyclerView/img/%20(1).png)
+![1](https://github.com/ahmaduunnail/MyRecyclerView/blob/master/img/%20(1).png)
 #
 ![2](https://github.com/ahmaduunnail/MyRecyclerView/img/(2).png)
 #
